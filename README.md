@@ -25,3 +25,4 @@ disc <- b**2-4*a*c
 no_roots <- disc < 0
 cat(no_roots)
 
+#conditional
